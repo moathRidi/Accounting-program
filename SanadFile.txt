@@ -1,0 +1,53 @@
+Kayd,1,1/1/2022,ILS,,111,Cash,0.0
+Kayd,1,1/1/2022,ILS,,310,Capital,0.0
+Sarf,2,1/1/2022,ILS,10,124,Buildings,0.0
+Sarf,2,1/1/2022,ILS,10,220,Value Added tax Provision,0.0
+Sarf,2,1/1/2022,ILS,10,111,Cash,0.0
+Sarf,3,2/1/2022,ILS,20,121,Machinery,0.0
+Sarf,3,2/1/2022,ILS,20,220,Value Added tax Provision,0.0
+Sarf,3,2/1/2022,ILS,20,111,Cash,0.0
+Sarf,4,3/1/2022,ILS,30,113,Supplies,0.0
+Sarf,4,3/1/2022,ILS,30,220,Value Added tax Provision,0.0
+Sarf,4,3/1/2022,ILS,30,111,Cash,0.0
+Sarf,5,2/2/2022,ILS,40,122,Furniture,0.0
+Sarf,5,2/2/2022,ILS,40,220,Value Added tax Provision,0.0
+Sarf,5,2/2/2022,ILS,40,111,Cash,0.0
+Sarf,6,3/3/2022,ILS,50,121,Machinery,0.0
+Sarf,6,3/3/2022,ILS,50,220,Value Added tax Provision,0.0
+Sarf,6,3/3/2022,ILS,50,111,Cash,0.0
+Kabd,7,15/1/2022,ILS,100,111,Cash,0.0
+Kabd,7,15/1/2022,ILS,100,410,Revenue,0.0
+Kabd,7,15/1/2022,ILS,100,220,Value Added tax Provision,0.0
+Kabd,8,25/2/2022,ILS,200,111,Cash,0.0
+Kabd,8,25/2/2022,ILS,200,410,Revenue,0.0
+Kabd,8,25/2/2022,ILS,200,220,Value Added tax Provision,0.0
+Kabd,9,3/3/2022,ILS,300,111,Cash,0.0
+Kabd,9,3/3/2022,ILS,300,410,Revenue,0.0
+Kabd,9,3/3/2022,ILS,300,220,Value Added tax Provision,0.0
+Kayd,10,31/1/2022,ILS,,114,Prepaid Insurance,0.0
+Kayd,10,31/1/2022,ILS,,111,Cash,0.0
+Kayd,11,31/12/2022,ILS,,520,Insuranse expense,0.0
+Kayd,11,31/12/2022,ILS,,114,Prepaid Insurance,0.0
+Kayd,12,31/12/2022,ILS,,530,Depreciation Expense,0.0
+Kayd,12,31/12/2022,ILS,,1000,Accumulated Depreciation,0.0
+Kayd,13,5/3/2022,ILS,,510,Salaries and wages expense,0.0
+Kayd,13,5/3/2022,ILS,,111,Cash,0.0
+Kayd,14,5/5/2022,ILS,,510,Salaries and wages expense,0.0
+Kayd,14,5/5/2022,ILS,,111,Cash,0.0
+Kayd,15,5/7/2022,ILS,,510,Salaries and wages expense,0.0
+Kayd,15,5/7/2022,ILS,,111,Cash,0.0
+Kayd,16,5/95/2022,ILS,,510,Salaries and wages expense,0.0
+Kayd,16,5/95/2022,ILS,,111,Cash,0.0
+Kayd,17,5/11/2022,ILS,,510,Salaries and wages expense,0.0
+Kayd,17,5/11/2022,ILS,,111,Cash,0.0
+Kayd,18,31/12/2022,ILS,,510,Salaries and wages expense,0.0
+Kayd,18,31/12/2022,ILS,,213,Salaries and wages Payable,0.0
+Kayd,19,25/3/2022,ILS,,340,Drawings,0.0
+Kayd,19,25/3/2022,ILS,,111,Cash,0.0
+Kayd,20,30/6/2022,ILS,,550,Utility expense,0.0
+Kayd,20,30/6/2022,ILS,,111,Cash,0.0
+Kayd,21,31/12/2022,ILS,,550,Utility expense,0.0
+Kayd,21,31/12/2022,ILS,,111,Cash,0.0
+Sarf,22,5/5/2022,ILS,70,123,Vehicles,0.0
+Sarf,22,5/5/2022,ILS,70,220,Value Added tax Provision,0.0
+Sarf,22,5/5/2022,ILS,70,111,Cash,0.0
